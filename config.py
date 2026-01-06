@@ -14,13 +14,13 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+TOKEN = "8483993979:AAFPCP-HnmwGaVSbNLxarMmTASsMLFTfbWY"
+API_ID = "29895250"
+API_HASH = "29ca1e2311efdf950eea03a6ae2bc8ee"
 WORKERS = 5
 
-DB_URI = "mongodb"
-DB_NAME = "yato"
+DB_URI = "mongodb+srv://Dpcinema:Dpcinema@atlascluster.mcfyzy4.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster"
+DB_NAME = "Dpcinema"
 
 FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
