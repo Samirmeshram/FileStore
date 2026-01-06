@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 2017335429
 
 MSG_EFFECT = 5046509860389126442
 
@@ -19,7 +19,7 @@ API_ID = "29895250"
 API_HASH = "29ca1e2311efdf950eea03a6ae2bc8ee"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://Dpcinema:Dpcinema@atlascluster.mcfyzy4.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster"
+DB_URI = ""
 DB_NAME = "Dpcinema"
 
 FSUBS = [[-1002933031477, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
