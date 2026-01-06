@@ -2,7 +2,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Bot Configuration
-LOG_FILE_NAME = "bot.log"
+LOG_FILE_NAME = "file movie"
 PORT = '8080'
 OWNER_ID = 2017335429
 
@@ -13,7 +13,7 @@ SHORT_API = "c040304d31789ba08d5ba404eca440f01e91e9a6"
 SHORT_TUT = "https://t.me/+j98kI5pNdxIyYTJl"
 
 # Bot Configuration
-SESSION = "yato"
+SESSION = "Dpcinema"
 TOKEN = "8483993979:AAFPCP-HnmwGaVSbNLxarMmTASsMLFTfbWY"
 API_ID = "29895250"
 API_HASH = "29ca1e2311efdf950eea03a6ae2bc8ee"
