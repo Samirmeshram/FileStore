@@ -3,14 +3,14 @@ from logging.handlers import RotatingFileHandler
 
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
-PORT = '5010'
+PORT = '8080'
 OWNER_ID = 2017335429
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+SHORT_URL = "Shortxlinks.com" # shortner url 
+SHORT_API = "c040304d31789ba08d5ba404eca440f01e91e9a6" 
+SHORT_TUT = "https://t.me/+j98kI5pNdxIyYTJl"
 
 # Bot Configuration
 SESSION = "yato"
@@ -24,7 +24,7 @@ DB_NAME = "Dpcinema"
 
 FSUBS = [[-1002933031477, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =    # just put channel id dont add ""
+DB_CHANNEL =   -1001893842833 # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
